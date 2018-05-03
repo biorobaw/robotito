@@ -1,0 +1,599 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"menu",
+				"menu_wire"
+			],
+			[
+				"read",
+				"readings"
+			],
+			[
+				"calc",
+				"calcLeft"
+			],
+			[
+				"dis",
+				"displayCell"
+			],
+			[
+				"Lef",
+				"left"
+			],
+			[
+				"set",
+				"setSpeedsIPS"
+			],
+			[
+				"wall",
+				"wallFollowing"
+			],
+			[
+				"Cu",
+				"curNode"
+			],
+			[
+				"Wall",
+				"wallFollowing"
+			],
+			[
+				"line",
+				"lineDetect"
+			],
+			[
+				"turn",
+				"turn90"
+			],
+			[
+				"clac",
+				"calcRight"
+			],
+			[
+				"grid",
+				"gridPosition"
+			],
+			[
+				"SETsp",
+				"setSpeedsIPS"
+			],
+			[
+				"Sen",
+				"sensor"
+			],
+			[
+				"Front",
+				"frontSS"
+			],
+			[
+				"front",
+				"frontSS"
+			],
+			[
+				"print",
+				"printDistances"
+			],
+			[
+				"Sensor",
+				"SensorStruct"
+			],
+			[
+				"prin",
+				"printDistances"
+			],
+			[
+				"in",
+				"integral"
+			],
+			[
+				"kp",
+				"KPDIV"
+			],
+			[
+				"bu",
+				"BUTTON_DOWN"
+			],
+			[
+				"BUT",
+				"BUTTON_DOWN"
+			],
+			[
+				"dista",
+				"distanceLow"
+			],
+			[
+				"BUTTON",
+				"BUTTON_SELECT"
+			],
+			[
+				"inches",
+				"inchesShort"
+			],
+			[
+				"Senso",
+				"SensorStruct"
+			],
+			[
+				"Set",
+				"setCursor"
+			],
+			[
+				"St",
+				"STANCE"
+			],
+			[
+				"setSpeeds",
+				"setSpeedsIPS"
+			],
+			[
+				"c",
+				"change"
+			],
+			[
+				"Bu",
+				"BUTTON_UP"
+			],
+			[
+				"SENS",
+				"SENS_MOD"
+			],
+			[
+				"NUM",
+				"NUM_SENSORS"
+			],
+			[
+				"readins",
+				"readingsSL"
+			],
+			[
+				"prev",
+				"prevTime"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"len",
+				"LENCPIN"
+			],
+			[
+				"LEN",
+				"LENCPIN"
+			],
+			[
+				"setup",
+				"setupRobot"
+			],
+			[
+				"RS",
+				"RSRVPIN"
+			],
+			[
+				"LENCO",
+				"LENCODERPIN"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/H/OneDrive/School/CDA4203 Lab/CDA4203FinalProject/CDA4203FinalProject-master/Project13/AudioTop13/package.xml",
+			"settings":
+			{
+				"buffer_size": 547,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<package format=\"2\">"
+			}
+		},
+		{
+			"file": "rosRobotitoPackage/CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 82,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"pip",
+			"pip install Pillow",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/OneDrive/School/Robotics Research/robotito-master/src/pilot.cpp",
+		"/H/OneDrive/School/CDA4203 Lab/CDA4203FinalProject/CDA4203FinalProject-master/Project13/AudioTop13/Top.v",
+		"/H/OneDrive/School/CDA4203 Lab/ddr2_mem_test_ise_14.7_v1/ddr2_mem_test_v1/ddr2_mem_test/RAM_Reference_Pins.ucf",
+		"/H/OneDrive/School/CDA4203 Lab/ANVYL/Anvyl_Master.ucf",
+		"/C/Users/Michael/AppData/Local/GitHubDesktop/app-1.1.1/Brandon's picoblaze/picocode.fmt",
+		"/C/Users/Michael/AppData/Local/GitHubDesktop/app-1.1.1/Brandon's picoblaze/KCPSM6_session_log.txt",
+		"/H/OneDrive/School/CDA4203 Lab/ddr2_mem_test_ise_14.7_v1/ddr2_mem_test_v1/ddr2_mem_test/ram_interface_wrapper.v",
+		"/H/OneDrive/School/CDA4203 Lab/CDA4203FinalProject/AudioTop/pins_completed.ucf",
+		"/H/OneDrive/School/CDA4203 Lab/Lab6/lab6ISE/ROM_form.v",
+		"/H/OneDrive/School/CDA4203 Lab/Demos/Anvyl_Demos/18.Anvyl_Audio_Digital/project/anvyl_codec/data/system.ucf",
+		"/H/OneDrive/School/CDA4203 Lab/Demos/Anvyl_Demos/05.Anvyl_memory_test_Demo/project/Anvyl_Demo_axi/data/system.ucf",
+		"/H/OneDrive/School/CDA4203 Lab/Demos/Anvyl_Demos/05.Anvyl_memory_test_Demo/project/Anvyl_Demo_axi/data/Anvyl_Demo_axi.ucf",
+		"/H/OneDrive/School/CDA4203 Lab/Demos/Anvyl_Demos/05.Anvyl_memory_test_Demo/project/Anvyl_Demo_axi/software/workspace/memory_tests_0/src/memorytest.c",
+		"/H/OneDrive/School/CDA4203 Lab/Lab6/lab6ISE/picoblaze.v",
+		"/H/OneDrive/School/CDA4203 Lab/Lab6/loopback/verilog/picoblaze.v",
+		"/H/OneDrive/School/CDA4203 Lab/Lab6/loopbackFiles/verilog/picoblaze.v",
+		"/C/Program Files/Python36/Scripts/pip3.exe",
+		"/C/Users/Michael/Documents/MobaXterm/slash/RemoteFiles/985338_5_7/GPIO",
+		"/C/Program Files/Python36/Scripts/pip.exe",
+		"/H/OneDrive/School/COT4521ComputationalGeometry/COT4521Project/Voronoi.py",
+		"/H/OneDrive/School/COT4521ComputationalGeometry/COT4521Project/DTri.py",
+		"/H/OneDrive/School/COT4521ComputationalGeometry/COT4521Project/VoronoiWindow.py",
+		"/Users/michaeldegrande/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/michaeldegrande/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/michaeldegrande/OneDrive/School/COT4521 Computational Geometry/COT4521Project/VDMain.py",
+		"/Users/michaeldegrande/OneDrive/School/COT4521 Computational Geometry/COT4521Project/README.md",
+		"/Users/michaeldegrande/OneDrive/School/COT4521 Computational Geometry/COT4521Project/tkfuckaround.py",
+		"/Users/michaeldegrande/OneDrive/School/COT4521 Computational Geometry/COT4521Project/VoronoiWindow.py",
+		"/Users/michaeldegrande/Downloads/board_test.v",
+		"/Users/michaeldegrande/Downloads/example_bcd_count_tb.v",
+		"/Users/michaeldegrande/OneDrive/School/Robotics Research/robotito-master/robotito-master/urdf/robot.urdf",
+		"/Users/michaeldegrande/OneDrive/School/Robotics Research/robotito-master/robotito-master/notes",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/MainFunctions.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/Chooser.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/WallFollowing.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/robotSetup.h",
+		"/applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/Structs.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/ColorSensor.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/MySharpSensor.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/MyEncoders.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/SLAM.ino",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/RobotSetup.h",
+		"/Users/michaeldegrande/Documents/Arduino/libraries/Adafruit_RGB_LCD_Shield/Adafruit_RGBLCDShield.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/Chooser.cpp",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/SLAM-Michael’s MacBook Pro.ino",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/PinChangeInt.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab3/SLAM/calibrate14.txt",
+		"/Users/michaeldegrande/OneDrive/School/COT4400 Algorithms/project2.cpp",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Samples Fall 2017/TotalTest3/robotSetup.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/wallFollowing/MyEncoders.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/wallFollowing/MyServos.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/wallFollowing/MySharpSensor.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/wallFollowing/SensorStruct.h",
+		"/applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/wallFollowing/wallFollowing.ino",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/MySharpSensor.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/MySharpSensor-Michael’s MacBook Pro.h",
+		"/Users/michaeldegrande/OneDrive/School/COP4600 Operating Systems/Bounded Buffer/boundedbuff.cpp",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/README.md",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/wallFollowing/Values.txt",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/wallDistance/wallDistance.ino",
+		"/Users/michaeldegrande/OneDrive/School/COP4600 Operating Systems/Bounded Buffer/mytest.dat",
+		"/Users/michaeldegrande/OneDrive/School/COT4400 Algorithms/HW8.cpp",
+		"/Users/michaeldegrande/Library/Application Support/Sublime Text 3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Labs/Arduino_Bot_Lab2/wallDistance/MySharpSensor.h",
+		"/Users/michaeldegrande/OneDrive/School/COT4400 Algorithms/Sorting/Helper.hpp",
+		"/Users/michaeldegrande/OneDrive/School/COT4400 Algorithms/Sorting/Helper.cpp",
+		"/Users/michaeldegrande/OneDrive/School/COT4400 Algorithms/Sorting/Driver.cpp",
+		"/Users/michaeldegrande/OneDrive/School/COT4400 Algorithms/Sorting/Sorting.hpp",
+		"/Users/michaeldegrande/OneDrive/School/COT4400 Algorithms/Sorting/Makefile",
+		"/Users/michaeldegrande/Downloads/MySharpSensor.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Lab1/Arduino_Bot_Lab2/Test/Test.ino",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Lab1/Arduino_Bot_Lab2/Test/MySharpSensor.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Lab1/Arduino_Bot_Lab2/Test/MyEncoders.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Lab1/Arduino_Bot_Lab2/Test/MyServos.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Lab1/Arduino_Bot_Lab1/HeaderFiles/Project1/project1.ino",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Lab1/Arduino_Bot_Lab1/HeaderFiles/Forward/ForwardParams.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Lab1/Arduino_Bot_Lab1/HeaderFiles/Forward/Forward.ino",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Lab1/Arduino_Bot_Lab1/HeaderFiles/Forward/MyEncoders.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Lab1/Arduino_Bot_Lab1/HeaderFiles/Forward/MyServos.h",
+		"/Users/michaeldegrande/OneDrive/School/CDA4621 ControlMobileRobots/Lab1/Arduino_Bot_Lab1/Kinematics Guides/Kinematics.pdf",
+		"/Users/michaeldegrande/Documents/Arduino/libraries/PinChangeInt_master/PinChangeInt.h",
+		"/Users/michaeldegrande/Google Drive/Lab1/MyServos.cpp",
+		"/Users/michaeldegrande/Google Drive/Lab1/MyServos.h",
+		"/Users/michaeldegrande/Google Drive/Lab1/MyEncoders.cpp",
+		"/Users/michaeldegrande/Google Drive/Lab1/MyEncoders.h",
+		"/Users/michaeldegrande/Google Drive/Lab1/Lab1.ino",
+		"/Users/michaeldegrande/Google Drive/Lab1/setupRobot.cpp",
+		"/Users/michaeldegrande/Google Drive/Lab1/setupRobot.h",
+		"/Users/michaeldegrande/Google Drive/Lab1/EllipseParams.h",
+		"/Users/michaeldegrande/Google Drive/Lab1/ForwardParams.h",
+		"/Users/michaeldegrande/Google Drive/Lab1/SShapeParams.h",
+		"/Users/michaeldegrande/Google Drive/Lab1/MyServos - Copy.cpp",
+		"/Users/michaeldegrande/Google Drive/Lab1/Lab1 (1).ino",
+		"/Users/michaeldegrande/Documents/Arduino/Lab1/Lab1.ino",
+		"/Users/michaeldegrande/Google Drive/CMRobots Lab1/MyServos.h",
+		"/Users/michaeldegrande/Google Drive/Lab1/CMRobots Lab1_AVR_UNO_atmega328p.hex",
+		"/Users/michaeldegrande/Google Drive/CMRobots Lab1/Lab1.ino",
+		"/Users/michaeldegrande/Google Drive/CMRobots Lab1/SShapeParams.h",
+		"/Users/michaeldegrande/Google Drive/CMRobots Lab1/ForwardParams.h",
+		"/Users/michaeldegrande/Google Drive/CMRobots Lab1/EllipseParams.h",
+		"/Users/michaeldegrande/Google Drive/CMRobots Lab1/MyEncoders.h",
+		"/Users/michaeldegrande/Google Drive/CMRobots Lab1/MyEncoders.cpp",
+		"/Users/michaeldegrande/Google Drive/CMRobots Lab1/MyServos.cpp",
+		"/Users/michaeldegrande/Google Drive/CMRobots Lab1/Lab1_AVR_UNO_atmega328p.hex",
+		"/Users/michaeldegrande/Google Drive/CMRobots Lab1/Lab1_AVR_YUN_atmega32u4.hex",
+		"/Applications/Arduino.app/Contents/Java/hardware/platform.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"D2",
+			"d2",
+			"SSTL2_II",
+			"hw_ram",
+			".w",
+			".canvas",
+			".w",
+			"master"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".canvas",
+			"root"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/H/OneDrive/School/CDA4203 Lab/CDA4203FinalProject/CDA4203FinalProject-master/Project13/AudioTop13/package.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								547,
+								547
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<package format=\"2\">",
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rosRobotitoPackage/CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 300.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 288.0
+	},
+	"output.stino_panel":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "RobotitoProject.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
