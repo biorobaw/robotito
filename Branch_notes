@@ -1,0 +1,8 @@
+This branch was created to maintain the version of Robotito used in my SCS testing, so that our lab has access to the code used.
+Since I have not had time to look at the changes made in the main branch, I'll leave this as a backup in case that version is incompatible the SCS code.
+
+If you are using the branch for that purpose, note that this branch should be cloned in the /src/ folder of your catkin workspace.
+
+Additionally, /launch/pose_detector_two_cameras.launch is simply the old version of the pose_detector.launch prior to the removal of the second camera nodes. This should work so long as the overlap is properly handled in /src/pose_publisher.py and /src/wall_publisher.py.
+
+Refer to the main branch for any other purposes, as the information and code in this branch is based on a more primitive version, and all changes that were made in the main in the past 6 months are NOT present. 
