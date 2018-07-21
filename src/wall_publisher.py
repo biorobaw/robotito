@@ -9,7 +9,7 @@ marker_frame = 'ar_marker_'
 cam1frame = 'stingray1'
 cam2frame = 'stingray2'
 MIN_MARKER = 1
-MAX_MARKER = 4
+MAX_MARKER = 10
 MAX_BLACKOUT = .2
 
 if __name__ == "__main__":
@@ -32,13 +32,11 @@ if __name__ == "__main__":
       now = rospy.Time.now() - rospy.Duration(period)
       
       #print "Checking " + cam1frame + "/" + marker_frame_full
-      if listener.canTransform(map_frame, cam1frame + "/" + marker_frame_full, now):
+      if listener.canTransform(map_frame, marker_frame_full, now):
         frame_to_use = cam1frame
-      elif listener.canTransform(map_frame, cam2frame + "/" + marker_frame_full, now):
-        frame_to_use = cam2frame
     
       if frame_to_use != None:
-        (trans,rot) = listener.lookupTransform(map_frame, frame_to_use + '/' + marker_frame_full, now)
+        (trans,rot) = listener.lookupTransform(map_frame, marker_frame_full, now)
 
         # Send the transform as a msg too for java nodes - 2d
         p = PoseStamped()
