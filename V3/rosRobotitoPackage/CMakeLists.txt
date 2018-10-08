@@ -1,0 +1,1 @@
+find_package(catkin REQUIRED COMPONENTS angles roscpp std_msgs message_generation)
